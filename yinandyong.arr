@@ -1,4 +1,6 @@
+# la inn en rød firkant
 rec-red = rectangle(140, 85, "solid", "red")
+# ...
 square-red = square(85, "solid", "red")
 rec-blue = rectangle(266, 210, "solid", "blue")
 square-white = square(97.6, "solid", "white")
